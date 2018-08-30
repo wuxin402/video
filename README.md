@@ -48,3 +48,33 @@
 46、动力节点_MySQL视频教程_存储过程：https://pan.baidu.com/s/1SZpigrswE86NQQRvkCTaqQ密码: jjvy  
 47、尚硅谷MySQL高级：https://pan.baidu.com/s/1n3u71SPBfMLxdrY3e5yTQA  密码: rvr6  
 48、尚硅谷jQuery视频教程(佟刚):https://pan.baidu.com/s/1nYwf78sCQDHlihpV-xy71w  密码: ju24  
+49、ZooKeeper分布式专题与Dubbo微服务入门：https://pan.baidu.com/s/1Pu5n_vh8F1jl7RoB1YSEkg 密码：cnov  
+50、vue.js全套：https://pan.baidu.com/s/1hFqX6r67YAsJNqjA8rBT8g 密码：tjex  
+51、SpringBoot 仿抖音短视频小程序开发：https://pan.baidu.com/s/1-cvJoy8AXlYEjoTQACUhLQ 密码：G8zN  
+52、mysql 优化：https://pan.baidu.com/s/1JpgHXhdmutIG5OxDpP6UVQ 密码：1wsp  
+53、微信小程序入门到实战：https://pan.baidu.com/s/1JEWMSDD5JnhI_B_SMDB0JA 密码：q8g1  
+54、Java分布式：https://pan.baidu.com/s/11N0G66WF0RxkEFWvc05a_A 密码: qu9x   
+55、java电商项目实战：https://pan.baidu.com/s/1bU1ZuyZql65pBxAN-PqfVQ 密码: aa6n  
+56、springboot：https://pan.baidu.com/s/100AwqXzJzaxYsawOpk4gZQ 密码: eb8d  
+57、python神经网络算法与深度学习视频教程人工智能：https://pan.baidu.com/s/115rEtsmG_lmQaHjP73BPfA 密码：ik06  
+58、100本最棒前端开发图书:https://pan.baidu.com/s/1YyV_XyrzOD0jb7Z99QAngA 密码：fnfg  
+59、java项目：https://pan.baidu.com/s/1jZwCY33j9Vz_DE0c7qIEEA 密码：uttr  
+60、node.js 入门视频教程：https://pan.baidu.com/s/1xFTJHvdrzoz0CsNem3TXWg 密码:7w0l  
+61、[基础][2017]Spark 2.0全新培训视频：https://pan.baidu.com/s/1GI-yv61ILkZM0xVNEAM4kA 密码:n92y  
+62、微服务：https://pan.baidu.com/s/1HjnXiFh_29nu93BMgAXNfQ 密码: xcw7  
+63、2017年-传智播客-张志君老师-SpringBoot视频：https://pan.baidu.com/s/1T4QVHGQfviS42NGNWUqjcw 密码: v2j4  
+64、设计模式系列：https://pan.baidu.com/s/1t1IyyvU-YRHGZhrdFN-Ymw 密码: 9vc4  
+65、架构师第一到第十阶段：https://pan.baidu.com/s/1Xv0T795DO9OULd7h-iVN4g 密码: 71wr  
+66、大型分布式项目项目实战：https://pan.baidu.com/s/18tFTiHliIhjtVPjQPJV2Jw 密码: 8a3m  
+67、JAVA书籍:https://pan.baidu.com/s/1QklY960-lrE20XH1MT1tbA 密码：8tb3  
+68、推荐系统算法工程师：https://pan.baidu.com/s/1frmpkR1mJsbNQfUql4GANg 密码：02lt  
+69、PhotoShop:https://pan.baidu.com/s/1mjYbcJA 密码：pqdt  
+70、Vue.js(比较详细):https://pan.baidu.com/s/1slYqBa1 密码：75xd  
+71、Node.js(比较详细):https://pan.baidu.com/s/1sm509GD 密码：fux1  
+72、PHP视频教程：https://pan.baidu.com/s/1kWE0qZP 密码：xc4q  
+73、oracle视频教程：https://pan.baidu.com/s/1i6jwpal 密码：hk6p  
+74、nginx视频教程：https://pan.baidu.com/s/1nxccLg1 密码：x2q8  
+75、ajax视频教程:https://pan.baidu.com/s/1dHctdXv 密码：jfwf  
+76、mongodb视频教程：https://pan.baidu.com/s/1c3EE7U4 密码：7v8b  
+77、React：https://pan.baidu.com/s/1nwnrQxb 密码：942g  
+
