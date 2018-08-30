@@ -77,4 +77,16 @@
 75、ajax视频教程:https://pan.baidu.com/s/1dHctdXv 密码：jfwf  
 76、mongodb视频教程：https://pan.baidu.com/s/1c3EE7U4 密码：7v8b  
 77、React：https://pan.baidu.com/s/1nwnrQxb 密码：942g  
-
+78、Python全栈：https://pan.baidu.com/s/1scBXSLdiTs9SBixdkykflw 密码：ck51  
+79、nodejs微信开发：https://pan.baidu.com/s/15tYBZ2yVz9aPO57LKqt7Mg 密码：jrwb  
+80、Android架构师干货：https://pan.baidu.com/s/1nN51qEMp_jq2KfzAAptduA 密码：y6zw  
+81、前端全套视频:https://pan.baidu.com/s/1rd6gB64fS17ylqi3A9IA-w 密码：egy5  
+82、PHP全套视频:https://pan.baidu.com/s/13DCQxHpLos6VcB6gY5LZSw 密码：tmqq  
+83、前端开发项目：一起来做秒杀活动：https://pan.baidu.com/s/1RHHV8SOC7Q9BnPRTSVWYNg 密码：ze4h  
+84、麦子商城项目制作(前端):https://pan.baidu.com/s/1DpoF958TsQwdqYGK7r34lw 密码：5ab6  
+85、企业级网站前端制作视频和源码:https://pan.baidu.com/s/1joNyOi5CegvJW4G-UeBODA 密码：wock  
+86、企业级网站后台制作视频和源码:https://pan.baidu.com/s/1769hXRG6OnWOfpZWwMpA-w 密码：k2wn  
+87、区块链实战教程:https://pan.baidu.com/s/19b8n8pcSjNKp3Uw1-8-rpQ 密码: ueb3  
+88、区块链(比较详细):https://pan.baidu.com/s/1tR1IyBx2zGP5wPdsx0sjsw 密码:yk8l  
+89、大数据(比较详细):https://pan.baidu.com/s/1sYSGoZN7Xt_lwylkpndEaA 密码:2w6u  
+90、Java开发企业级权限管理系统：https://pan.baidu.com/s/181KSr72p9XPKH9YFJ1Qxig 密码：2upa  
