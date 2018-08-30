@@ -1,9 +1,9 @@
 # video
 百度云视频     
-1、算法，数据结构，设计模式: https://pan.baidu.com/s/1sBU2GmAuoOSTdHpCkJQKgA 密码:w1nn  
-2、javaweb方向的组件和ssh框架,以及hadoop: https://pan.baidu.com/s/1n8R-OrqChoZbNDAm7KyeQg 密码:4301  
+1、算法，数据结构，设计模式: https://pan.baidu.com/s/1sBU2GmAuoOSTdHpCkJQKgA 密码:w1nn   
+2、javaweb方向的组件和ssh框架,以及hadoop: https://pan.baidu.com/s/1n8R-OrqChoZbNDAm7KyeQg 密码:4301    
 3、Python学习以及人工智能方向: https://pan.baidu.com/s/1kUYJ1weVhK-2vW1CXAZgQA 密码：haxq  
-4、C,C++,汇编,Python等: https://pan.baidu.com/s/1Gduc4A3qhhqlJou28-Uo8w 密码:3u3q  
+4、C,C++,汇编,Python等: https://pan.baidu.com/s/1Gduc4A3qhhqlJou28-Uo8w 密码:3u3q   
 5、130套小程序源码： https://pan.baidu.com/s/1tAE4W3DAfICw58MV79rN0w 密码:a005  
 6、极客WEB大前端专家级开发工程师培训视频教程：https://pan.baidu.com/s/18SQdWPv5ghqs2wOUP8zMiA 密码: xbw5  
 7、Android从程序员到架构师：https://pan.baidu.com/s/1bpdMdif 密码：y055  
