@@ -1,10 +1,10 @@
 # video
 百度云视频     
 1、算法，数据结构，设计模式: https://pan.baidu.com/s/1sBU2GmAuoOSTdHpCkJQKgA 密码:w1nn   
-2、javaweb方向的组件和ssh框架,以及hadoop: https://pan.baidu.com/s/1n8R-OrqChoZbNDAm7KyeQg 密码:4301    
-3、Python学习以及人工智能方向: https://pan.baidu.com/s/1kUYJ1weVhK-2vW1CXAZgQA 密码：haxq  
-4、C,C++,汇编,Python等: https://pan.baidu.com/s/1Gduc4A3qhhqlJou28-Uo8w 密码:3u3q   
-5、130套小程序源码： https://pan.baidu.com/s/1tAE4W3DAfICw58MV79rN0w 密码:a005  
+2、javaweb方向的组件和ssh框架,以及hadoop:https://pan.baidu.com/s/1n8R-OrqChoZbNDAm7KyeQg 密码:4301    
+3、Python学习以及人工智能方向:https://pan.baidu.com/s/1kUYJ1weVhK-2vW1CXAZgQA 密码：haxq  
+4、C,C++,汇编,Python等:https://pan.baidu.com/s/1Gduc4A3qhhqlJou28-Uo8w 密码:3u3q   
+5、130套小程序源码:https://pan.baidu.com/s/1tAE4W3DAfICw58MV79rN0w 密码:a005  
 6、极客WEB大前端专家级开发工程师培训视频教程：https://pan.baidu.com/s/18SQdWPv5ghqs2wOUP8zMiA 密码: xbw5  
 7、Android从程序员到架构师：https://pan.baidu.com/s/1bpdMdif 密码：y055  
 8、软件测试：https://pan.baidu.com/s/1Eja527ZrFGrQ_VbpfNCfeA 密码：j0mu  
@@ -45,7 +45,7 @@
 43、阿里云ACP：https://pan.baidu.com/s/11HdhPcQtK0Et841ur3HzPQ 密码：t4wf  
 44、Spring Boot企业微信点餐系统：https://pan.baidu.com/s/19VSa3OzaxNHzwxEwHiEMww 密码：pzqg  
 45、尚硅谷Docker核心技术：https://pan.baidu.com/s/1nJY72dNRT8UiosRRFaTaJg 密码: nhrk  
-46、动力节点_MySQL视频教程_存储过程：https://pan.baidu.com/s/1SZpigrswE86NQQRvkCTaqQ密码: jjvy  
+46、动力节点_MySQL视频教程_存储过程：https://pan.baidu.com/s/1SZpigrswE86NQQRvkCTaqQ 密码: jjvy   
 47、尚硅谷MySQL高级：https://pan.baidu.com/s/1n3u71SPBfMLxdrY3e5yTQA  密码: rvr6  
 48、尚硅谷jQuery视频教程(佟刚):https://pan.baidu.com/s/1nYwf78sCQDHlihpV-xy71w  密码: ju24  
 49、ZooKeeper分布式专题与Dubbo微服务入门：https://pan.baidu.com/s/1Pu5n_vh8F1jl7RoB1YSEkg 密码：cnov  
@@ -59,7 +59,7 @@
 57、python神经网络算法与深度学习视频教程人工智能：https://pan.baidu.com/s/115rEtsmG_lmQaHjP73BPfA 密码：ik06  
 58、100本最棒前端开发图书:https://pan.baidu.com/s/1YyV_XyrzOD0jb7Z99QAngA 密码：fnfg  
 59、java项目：https://pan.baidu.com/s/1jZwCY33j9Vz_DE0c7qIEEA 密码：uttr  
-60、node.js 入门视频教程：https://pan.baidu.com/s/1xFTJHvdrzoz0CsNem3TXWg 密码:7w0l  
+60、node.js 入门视频教程：https://pan.baidu.com/s/1xFTJHvdrzoz0CsNem3TXWg 密码:7w0l   
 61、[基础][2017]Spark 2.0全新培训视频：https://pan.baidu.com/s/1GI-yv61ILkZM0xVNEAM4kA 密码:n92y  
 62、微服务：https://pan.baidu.com/s/1HjnXiFh_29nu93BMgAXNfQ 密码: xcw7  
 63、2017年-传智播客-张志君老师-SpringBoot视频：https://pan.baidu.com/s/1T4QVHGQfviS42NGNWUqjcw 密码: v2j4  
