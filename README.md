@@ -1,5 +1,5 @@
 # video
-百度云视频
+百度云视频     
 1、算法，数据结构，设计模式: https://pan.baidu.com/s/1sBU2GmAuoOSTdHpCkJQKgA 密码:w1nn
 2、javaweb方向的组件和ssh框架,以及hadoop: https://pan.baidu.com/s/1n8R-OrqChoZbNDAm7KyeQg 密码:4301
 3、Python学习以及人工智能方向: https://pan.baidu.com/s/1kUYJ1weVhK-2vW1CXAZgQA 密码：haxq
