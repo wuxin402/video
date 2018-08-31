@@ -92,3 +92,28 @@
 90、Java开发企业级权限管理系统：https://pan.baidu.com/s/181KSr72p9XPKH9YFJ1Qxig 密码：2upa  
 91、欧美商务风PPT:https://pan.baidu.com/s/1ouCtRAugNJKXDjfNEJh_nw 密码：ljxa  
 92、jvm和ClassLoader:https://pan.baidu.com/s/17ZiQhIHamgDtY6BgdrT7rw 密码：Sm88  
+93、ElasticSearch5视频教程:https://pan.baidu.com/s/1k6aJMR7C-9KpUZhiqF3d0Q 密码：fibu  
+94、Netty入门视频教程:https://pan.baidu.com/s/1aM5I2-uppuNzUizT4oCP2A 密码：2gtz  
+95、Solr千万级的海量搜索实战:https://pan.baidu.com/s/1Eq54_Gz5NSef0zq5Md95bA 密码：2sz5  
+96、数据挖掘之solr5搜索引擎:https://pan.baidu.com/s/1P8507tH-cNGrj3O-hdgJmg 密码：ic1p  
+97、百知教育dubbo课程:https://pan.baidu.com/s/1niv4v2FnrZHdCh20l_6CBA 密码：4kf7  
+98、动脑学院JAVA高级:https://pan.baidu.com/s/1JtKFDkMmomBCO3Rq3Up3bg 密码：6kpa  
+99、任小龙大神班 SpringMVC:https://pan.baidu.com/s/1DAsBm7M2Ue3Mot_ZkmKKAA 密码：zimn  
+100、任小龙大神班 Spring5:https://pan.baidu.com/s/16hC0xeSZ5SE55wysJ5VgfQ 密码：j0fa  
+101、任小龙大神班 MyBatis:https://pan.baidu.com/s/1CxqdfMBf57QpvgtjjZtyMg 密码：2mb4  
+102、深入JVM内核—原理、诊断与优化:https://pan.baidu.com/s/1_dQBY4fYDgC_aRgwX-v_iQ 密码：o5nk  
+103、叶子猿 Java并发编程原理与实战:https://pan.baidu.com/s/1PemtjsE1j3U1ZIyl1COz1w 密码：no0i  
+104、网易云课堂大型电商项目:https://pan.baidu.com/s/1XK6k70ZvocdqlMm9OF1rQA 密码：j6hx  
+105、夜行侠老师深入浅出Netty源码剖析:https://pan.baidu.com/s/1RQkjM5Xjxl4LJFS_51VUWA 密码：7cqm  
+106、北风网JAVA设计模式:https://pan.baidu.com/s/1p2rDwCabHtw6mWO2vuO0KA 密码：trj8  
+107、ThinkPHP5.0一套博客系统开发视频:https://pan.baidu.com/s/1NMHWkm74rywcRFuxLBlvJQ 密码：ywli  
+108、tpshop2.0之B2C商城项目实战视频:https://pan.baidu.com/s/1hQKtmgSraPrF2XiKhmwIbg 密码：mppf  
+109、慕课网360大牛带你横扫PHP职场 全面解读PHP面试:https://pan.baidu.com/s/1qRZVMqsZlQ2Z0E2t63-AJQ 密码：c90x  
+110、慕课网Laravel5.4快速开发简书网站:https://pan.baidu.com/s/1DUpVjJG0wZVPjsA_aJIC8Q 密码：w98q  
+111、慕课网PHP开发高可用高安全app后端:https://pan.baidu.com/s/1pPzh9139GMRzZfurlkv9Gw 密码：xtgw  
+112、慕课网PHP秒杀系统-高并发高性能的极致挑战（完整版）:https://pan.baidu.com/s/1g8btXbM1apmf-sRoQrfQRQ 密码：kj83  
+113、慕课网ThinkPHP5.0百度大牛助你搞定新闻网站开发整站:https://pan.baidu.com/s/1cpwEmBMuh4QVdR-eP8FuYg 密码：7zxi  
+114、老男孩Python14期vip视频:https://pan.baidu.com/s/1eo5iAkyQ8eke_Fi1TYJyRg 密码：h2bi  
+115、老男孩Python高级全栈开发工程师:https://pan.baidu.com/s/1ppSjmOy1tcE7ahNntW7nHg 密码：a9ow  
+116、慕课网Python Flask 构建微电影视频网站:https://pan.baidu.com/s/1MUQOEahNFzRpUoL3RWRukQ 密码：yk2a  
+117、慕课网强力django+杀手级xadmin:https://pan.baidu.com/s/1SC3ZIsddIW5fbZgh0BQfWw 密码：wiwu  
