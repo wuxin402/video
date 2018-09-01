@@ -117,3 +117,4 @@
 115、老男孩Python高级全栈开发工程师:https://pan.baidu.com/s/1ppSjmOy1tcE7ahNntW7nHg 密码：a9ow  
 116、慕课网Python Flask 构建微电影视频网站:https://pan.baidu.com/s/1MUQOEahNFzRpUoL3RWRukQ 密码：yk2a  
 117、慕课网强力django+杀手级xadmin:https://pan.baidu.com/s/1SC3ZIsddIW5fbZgh0BQfWw 密码：wiwu  
+118、架构师之路:https://pan.baidu.com/s/1LRr4zTybhyeaVAJ6yAO1og 密码：qh5n  
