@@ -118,4 +118,4 @@
 116、慕课网Python Flask 构建微电影视频网站:https://pan.baidu.com/s/1MUQOEahNFzRpUoL3RWRukQ 密码：yk2a  
 117、慕课网强力django+杀手级xadmin:https://pan.baidu.com/s/1SC3ZIsddIW5fbZgh0BQfWw 密码：wiwu  
 118、架构师之路:https://pan.baidu.com/s/1LRr4zTybhyeaVAJ6yAO1og 密码：qh5n  
-119、ChromeDevTools-v2:https://pan.baidu.com/s/1aPGmbswH52UvWYHxafRTXg  密码  密码:2o46  
+119、ChromeDevTools-v2:https://pan.baidu.com/s/1aPGmbswH52UvWYHxafRTXg 密码:2o46  
