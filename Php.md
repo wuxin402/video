@@ -9,3 +9,4 @@
 9、慕课网360大牛带你横扫PHP职场 全面解读PHP面试:https://pan.baidu.com/s/1qRZVMqsZlQ2Z0E2t63-AJQ 密码：c90x  
 10、tpshop2.0之B2C商城项目实战视频:https://pan.baidu.com/s/1hQKtmgSraPrF2XiKhmwIbg 密码：mppf  
 11、慕课网Laravel5.4快速开发简书网站:https://pan.baidu.com/s/1DUpVjJG0wZVPjsA_aJIC8Q 密码：w98q  
+12、PHP全套:https://pan.baidu.com/s/1Ohk0pI-Dv8FDkh4S075fHA 密码: njwq  
