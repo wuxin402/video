@@ -54,3 +54,4 @@
 54、JAVA书籍: https://pan.baidu.com/s/1QklY960-lrE20XH1MT1tbA 密码：8tb3  
 55、SpringData：https://pan.baidu.com/s/109cBkl78oAOLq8RfskbwBQ 密码：7z6y  
 56、架构师之路: https://pan.baidu.com/s/1LRr4zTybhyeaVAJ6yAO1og 密码：qh5n  
+57、30个项目资料链接：https://pan.baidu.com/s/1ZcErK1UGU__yh3uoq4rY_g 密码：1xqa  
