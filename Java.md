@@ -53,4 +53,4 @@
 53、大型分布式项目项目实战：https://pan.baidu.com/s/18tFTiHliIhjtVPjQPJV2Jw 密码: 8a3m  
 54、JAVA书籍:https://pan.baidu.com/s/1QklY960-lrE20XH1MT1tbA 密码：8tb3  
 55、SpringData：https://pan.baidu.com/s/109cBkl78oAOLq8RfskbwBQ 密码：7z6y  
-56、nginx视频教程：https://pan.baidu.com/s/1nxccLg1 密码：x2q8  
+56、架构师之路:https://pan.baidu.com/s/1LRr4zTybhyeaVAJ6yAO1og 密码：qh5n  
