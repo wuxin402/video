@@ -7,3 +7,5 @@
 7、慕课网PHP秒杀系统-高并发高性能:https://pan.baidu.com/s/1g8btXbM1apmf-sRoQrfQRQ 密码：kj83  
 8、慕课网ThinkPHP5.0百度大牛助你搞定新闻网站:https://pan.baidu.com/s/1cpwEmBMuh4QVdR-eP8FuYg 密码：7zxi  
 9、慕课网360大牛带你横扫PHP职场 全面解读PHP面试:https://pan.baidu.com/s/1qRZVMqsZlQ2Z0E2t63-AJQ 密码：c90x  
+10、tpshop2.0之B2C商城项目实战视频:https://pan.baidu.com/s/1hQKtmgSraPrF2XiKhmwIbg 密码：mppf  
+11、慕课网Laravel5.4快速开发简书网站:https://pan.baidu.com/s/1DUpVjJG0wZVPjsA_aJIC8Q 密码：w98q  
