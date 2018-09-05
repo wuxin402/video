@@ -126,3 +126,9 @@
 124、Storm:https://pan.baidu.com/s/1FV92GdyZJSfs9Mo6cXc44Q 密码：rbj0  
 125、安卓工程师:https://pan.baidu.com/s/1KtQchpckrKjaRXkMk5grHw 密码:c4y3  
 126、安全牛— Kali Linux渗透测试:https://pan.baidu.com/s/1fWz2hEDTd4Ao5ut9sfb7AA 密码：mriy  
+127、大数据:https://pan.baidu.com/s/1jBglLDgaMf-aTJlTvG7FFA 密码：x3m2  
+128、python分布式爬虫:https://pan.baidu.com/s/16PvB1t9C-rxZg6V-igLpjw 密码：osdt  
+129、乐优项目：https://pan.baidu.com/s/1I5LyWwohQY1Hu-JxvUmblA 密码:mn2e  
+130、Linux视频:https://pan.baidu.com/s/1gcjIUx3V9DmcTnYPHGN8Jg 密码:kzqt  
+131、Python3入门+进阶:https://pan.baidu.com/s/1gomPvf77mWOuXb0btv3k9A 密码:5eil  
+132、Java系统学习资料:https://pan.baidu.com/s/1CZalhap664CyJd2N-tynPw 密码:gvv7  
