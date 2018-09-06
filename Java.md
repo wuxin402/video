@@ -10,7 +10,7 @@
 10、Oracle链接：https://pan.baidu.com/s/1eTa876uXgEDd3HVebBp5WA 密码：yypl  
 11、Java-API链接：https://pan.baidu.com/s/1pKAq5LHKCJ8jw7dAPCdhQw 密码：a3oq  
 12、Java资料库(电子书): https://pan.baidu.com/s/1GLmBmRVUpFAxKY075iJSFw 密码：i63g  
-13、架构师视频教程：https://pan.baidu.com/s/1ZbSV-2vP1LeSvrgO8FlNrw 密码:t7w8  
+13、架构师视频教程：https://pan.baidu.com/s/1ZbSV-2vP1LeSvrgO8FlNrw 密码: t7w8  
 14、IT书籍：https://pan.baidu.com/s/1MMBjtrPWbcTq_W7CLZnuOw 密码: buxb  
 15、传智播客CRM(有代码)：https://pan.baidu.com/s/1QvZRgpUrO_8ZL2XVw1R7Ng 密码: uiwb  
 16、首套Spring Boot最新框架教程：https://pan.baidu.com/s/1Kgfmh3tTLzK27E0bUgyDfQ 密码：j5nm  
