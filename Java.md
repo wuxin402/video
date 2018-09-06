@@ -49,7 +49,6 @@
 49、设计模式系列：https://pan.baidu.com/s/1t1IyyvU-YRHGZhrdFN-Ymw 密码: 9vc4  
 50、架构师第一到第十阶段：https://pan.baidu.com/s/1Xv0T795DO9OULd7h-iVN4g 密码: 71wr  
 51、大型分布式项目项目实战：https://pan.baidu.com/s/18tFTiHliIhjtVPjQPJV2Jw 密码: 8a3m  
-52、JAVA书籍: https://pan.baidu.com/s/1QklY960-lrE20XH1MT1tbA 密码：8tb3  
-53、SpringData：https://pan.baidu.com/s/109cBkl78oAOLq8RfskbwBQ 密码：7z6y  
-54、架构师之路: https://pan.baidu.com/s/1LRr4zTybhyeaVAJ6yAO1og 密码：qh5n  
-55、30个项目资料链接：https://pan.baidu.com/s/1ZcErK1UGU__yh3uoq4rY_g 密码：1xqa  
+52、SpringData：https://pan.baidu.com/s/109cBkl78oAOLq8RfskbwBQ 密码：7z6y  
+53、架构师之路: https://pan.baidu.com/s/1LRr4zTybhyeaVAJ6yAO1og 密码：qh5n  
+54、30个项目资料链接：https://pan.baidu.com/s/1ZcErK1UGU__yh3uoq4rY_g 密码：1xqa  
