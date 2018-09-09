@@ -52,3 +52,13 @@
 52、SpringData：https://pan.baidu.com/s/109cBkl78oAOLq8RfskbwBQ 密码：7z6y  
 53、架构师之路: https://pan.baidu.com/s/1LRr4zTybhyeaVAJ6yAO1og 密码：qh5n  
 54、30个项目资料链接：https://pan.baidu.com/s/1ZcErK1UGU__yh3uoq4rY_g 密码：1xqa  
+55、activiti6工作流: https://pan.baidu.com/s/1cZck9sVwY_-NUdL3dBLlYA 密码: h3vt  
+56、idea全套软件教程: https://pan.baidu.com/s/13u9F_iQozX5yK5hstywAjQ 密码：1v67  
+57、Java读源码之Netty深入剖析：https://pan.baidu.com/share/init?surl=qz6M2uUuMjL0iZSALRSPHg 密码:nwhm  
+58、微信小程序开发: https://pan.baidu.com/s/1Y7biTDCir3E1Gw-w_Z1fVg 密码:xnuh  
+59、Java基础数据结构: https://pan.baidu.com/share/init?surl=xYTRB_EixMCWMKmXNowNsw 密码:3wnr  
+60、Java SSM开发大众点评后端: https://pan.baidu.com/s/1sYTZ911t-sJOBdAzQnRRGw 密码：u9r2  
+61、Java Web项目开发案例精粹:https://pan.baidu.com/s/1qCkFB1UumUnroCXZUGVrXg 密码：niqh  
+62、java从入门到精通(3套）:https://pan.baidu.com/s/1dFnLon3#list/path=%2F 密码: mwf7  
+63、java架构师成长之路(挺详细的):https://pan.baidu.com/s/1bP0iD4 密码:h9ab  
+64、 微服务:https://pan.baidu.com/s/1sLy9gOd0_FGFQplUAtdxAA 密码：ln3k  
