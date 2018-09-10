@@ -24,3 +24,7 @@
 22、2018Python全套(CZBK): https://pan.baidu.com/s/1NCbloK0Ur02E3WHM3S88tw 密码：zemt  
 23、python最新就业班:https://pan.baidu.com/s/15gdzbu-gue6g-DXAFspRxg 密码：jtc9  
 24、python(很详细的):https://pan.baidu.com/s/1gqPWUYb5BBnRpM1n7lIwPQ 密码: pj7n  
+25、Python(上课录制):https://pan.baidu.com/s/1E5gmD8eeQK8hAu4fVv9jfA 密码：61hs  
+26、Python核心技术进阶训练篇(含Python源码): https://pan.baidu.com/s/1VslzKjwql0LmoIOCatO3UA 密码：0fuo  
+27、Python全栈：https://pan.baidu.com/s/1scBXSLdiTs9SBixdkykflw 密码: ck51  
+28、python神经网络算法与深度学习视频教程人工智能:https://pan.baidu.com/s/115rEtsmG_lmQaHjP73BPfA 密码：ik06  
