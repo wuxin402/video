@@ -3,3 +3,4 @@
 3、linux链接：https://pan.baidu.com/s/1liYyX2l3FZYgiFUFa9gBEg 密码：qfah  
 4、Linux视频: https://pan.baidu.com/s/1gcjIUx3V9DmcTnYPHGN8Jg 密码: kzqt  
 5、linux运维: https://pan.baidu.com/s/12oOykpxW3oj9Up8ov1n_Ow 密码: 7ucf  
+6、Linux 视频: https://pan.baidu.com/s/1gcjIUx3V9DmcTnYPHGN8Jg 密码：kzqt  
