@@ -6,3 +6,5 @@
 6、Linux 视频: https://pan.baidu.com/s/1gcjIUx3V9DmcTnYPHGN8Jg 密码：kzqt  
 7、Cassandra权威指南(扫描中文版)：http://pan.baidu.com/s/1jHLQ3uI 密码: wzsf  
 8、Linux私房菜第三版: https://pan.baidu.com/s/1lUA85hNocY5MFHmwansBVw 密码: q3yy  
+9、Linux：http://pan.baidu.com/s/1miBjmHy 密码：iv0p  
+
