@@ -53,15 +53,18 @@
 53、30个项目资料链接：https://pan.baidu.com/s/1ZcErK1UGU__yh3uoq4rY_g 密码：1xqa  
 54、activiti6工作流: https://pan.baidu.com/s/1cZck9sVwY_-NUdL3dBLlYA 密码: h3vt  
 55、idea全套软件教程: https://pan.baidu.com/s/13u9F_iQozX5yK5hstywAjQ 密码：1v67  
-56、Java读源码之Netty深入剖析：https://pan.baidu.com/share/init?surl=qz6M2uUuMjL0iZSALRSPHg 密码:nwhm  
+56、Java读源码之Netty深入剖析：https://pan.baidu.com/share/init?surl=qz6M2uUuMjL0iZSALRSPHg 密码: nwhm  
 57、微信小程序开发: https://pan.baidu.com/s/1Y7biTDCir3E1Gw-w_Z1fVg 密码:xnuh  
-58、Java基础数据结构: https://pan.baidu.com/share/init?surl=xYTRB_EixMCWMKmXNowNsw 密码:3wnr  
+58、Java基础数据结构: https://pan.baidu.com/share/init?surl=xYTRB_EixMCWMKmXNowNsw 密码: 3wnr  
 59、Java SSM开发大众点评后端: https://pan.baidu.com/s/1sYTZ911t-sJOBdAzQnRRGw 密码：u9r2  
 60、Java Web项目开发案例精粹:https://pan.baidu.com/s/1qCkFB1UumUnroCXZUGVrXg 密码：niqh  
 61、java从入门到精通(3套）:https://pan.baidu.com/s/1dFnLon3#list/path=%2F 密码: mwf7  
-62、java架构师成长之路(挺详细的):https://pan.baidu.com/s/1bP0iD4 密码:h9ab  
+62、java架构师成长之路(挺详细的):https://pan.baidu.com/s/1bP0iD4 密码: h9ab  
 63、 微服务:https://pan.baidu.com/s/1sLy9gOd0_FGFQplUAtdxAA 密码：ln3k  
 64、JAVA全套课程入进阶架构高级:https://pan.baidu.com/s/18f1J_Zl4QzYFG5AZDLmBIQ 密码: 753i  
-65、RabbitMQ(LNH): https://pan.baidu.com/s/1AxmP_vX6cd3ZaB0HBXe6CQ  密码:2bwq  
+65、RabbitMQ(LNH): https://pan.baidu.com/s/1AxmP_vX6cd3ZaB0HBXe6CQ  密码: 2bwq  
 66、Java并发编程原理与实战: https://pan.baidu.com/s/1w0OvLtkJQUZ_9o6e96J0ug 密码: whv7  
+67、算法导论: https://pan.baidu.com/s/1HMtL1POuyVq14oL0etF62A 密码: 33o3  
+68、JAVA 在线支付实战: https://pan.baidu.com/s/1ShDrwncFqyBQKbsJKX8ssQ  密码:3hk4  
+
 
