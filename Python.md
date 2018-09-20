@@ -31,3 +31,4 @@
 29、2017最新整理深度学习神经网络算法: https://pan.baidu.com/s/19iZpx7nhM3HPnAQzda_Cpg 密码:4c87  
 30、python操作三大主流数据库: https://pan.baidu.com/s/1nTGO1YPIFUKLik_HRUvetg 密码: rtpn  
 31、Python3网络爬虫实战: https://pan.baidu.com/s/1rwRUepewo6iMgld9NSVsHg 密码:32qz  
+32、机器学习:https://pan.baidu.com/s/1Qa5c4oSWX2EqW5nQ-kmaOQ 密码:vu7d  
