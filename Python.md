@@ -28,3 +28,6 @@
 26、Python核心技术进阶训练篇(含Python源码): https://pan.baidu.com/s/1VslzKjwql0LmoIOCatO3UA 密码：0fuo  
 27、Python全栈：https://pan.baidu.com/s/1scBXSLdiTs9SBixdkykflw 密码: ck51  
 28、python神经网络算法与深度学习视频教程人工智能:https://pan.baidu.com/s/115rEtsmG_lmQaHjP73BPfA 密码：ik06  
+29、2017最新整理深度学习神经网络算法: https://pan.baidu.com/s/19iZpx7nhM3HPnAQzda_Cpg 密码:4c87  
+30、python操作三大主流数据库: https://pan.baidu.com/s/1nTGO1YPIFUKLik_HRUvetg 密码: rtpn  
+31、Python3网络爬虫实战: https://pan.baidu.com/s/1rwRUepewo6iMgld9NSVsHg 密码:32qz  
