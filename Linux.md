@@ -7,4 +7,6 @@
 7、Cassandra权威指南(扫描中文版)：http://pan.baidu.com/s/1jHLQ3uI 密码: wzsf  
 8、Linux私房菜第三版: https://pan.baidu.com/s/1lUA85hNocY5MFHmwansBVw 密码: q3yy  
 9、Linux：http://pan.baidu.com/s/1miBjmHy 密码：iv0p  
+10、linux虚拟机：https://pan.baidu.com/s/1xJ3itumW_7AcBRaVLr7Q9A 密码：s9lv  
+11、linux教程：https://pan.baidu.com/s/1ml7OGlFDENlBH-JpfUtNrg 密码：ifrm  
 
