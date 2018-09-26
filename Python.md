@@ -36,3 +36,4 @@
 34、分享课程——手把手教你用Python实践深度学习：https://pan.baidu.com/s/183pNoCpUNzu7n82KMolD7A 提取码: 3q7b  
 35、从零入门人工智能+深度学习精华实践课程：https://pan.baidu.com/s/1t9RfVMhCsu0Kc58yYj7qnw 提取码: s25h  
 36、用Python实践深度学习：https://pan.baidu.com/s/1u3Y9jPmCT5zd_dIAxC14AA 提取码: 6xh4  
+37、python3精品爬虫：https://pan.baidu.com/s/1DiZNc6elzn7t8pvM8K5OxQ 密码：9yo0  
