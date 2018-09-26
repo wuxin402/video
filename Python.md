@@ -32,3 +32,7 @@
 30、python操作三大主流数据库: https://pan.baidu.com/s/1nTGO1YPIFUKLik_HRUvetg 密码: rtpn  
 31、Python3网络爬虫实战: https://pan.baidu.com/s/1rwRUepewo6iMgld9NSVsHg 密码:32qz  
 32、机器学习:https://pan.baidu.com/s/1Qa5c4oSWX2EqW5nQ-kmaOQ 密码:vu7d  
+33、人工智能python数据分析数据挖掘 Tensorflow Caffe：https://pan.baidu.com/s/1-mpHxw6UB0snDEjAINH5vA 密码: ag42  
+34、分享课程——手把手教你用Python实践深度学习：https://pan.baidu.com/s/183pNoCpUNzu7n82KMolD7A 提取码: 3q7b  
+35、从零入门人工智能+深度学习精华实践课程：https://pan.baidu.com/s/1t9RfVMhCsu0Kc58yYj7qnw 提取码: s25h  
+36、用Python实践深度学习：https://pan.baidu.com/s/1u3Y9jPmCT5zd_dIAxC14AA 提取码: 6xh4  
