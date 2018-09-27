@@ -39,3 +39,4 @@
 37、python3精品爬虫：https://pan.baidu.com/s/1DiZNc6elzn7t8pvM8K5OxQ 密码：9yo0  
 38、数据分析+机器学习源码：https://pan.baidu.com/s/1M-rjJE30w17Q2nHTO5LzGQ 密码：3pu5  
 39、面向科学的概率论:https://github.com/apachecn/prob140-textbook-zh  
+40、深度学习(比较推荐)：https://pan.baidu.com/s/1QiBFSVpd14caqVf2cBt3TQ 密码：ozlr  
