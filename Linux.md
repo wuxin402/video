@@ -9,4 +9,5 @@
 9、Linux：http://pan.baidu.com/s/1miBjmHy 密码：iv0p  
 10、linux虚拟机：https://pan.baidu.com/s/1xJ3itumW_7AcBRaVLr7Q9A 密码：s9lv  
 11、linux教程：https://pan.baidu.com/s/1ml7OGlFDENlBH-JpfUtNrg 密码：ifrm  
+12、nginx视频教程: https://pan.baidu.com/s/1nxccLg1 密码：x2q8  
 
