@@ -40,3 +40,4 @@
 38、数据分析+机器学习源码：https://pan.baidu.com/s/1M-rjJE30w17Q2nHTO5LzGQ 密码：3pu5  
 39、面向科学的概率论:https://github.com/apachecn/prob140-textbook-zh  
 40、深度学习(比较推荐)：https://pan.baidu.com/s/1QiBFSVpd14caqVf2cBt3TQ 密码：ozlr  
+41、数据分析&挖掘高级工程师(*****): https://pan.baidu.com/s/1WpyQ1NYatWwilie5Ae6WSg 提取码: 5j25  
